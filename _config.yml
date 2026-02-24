@@ -205,10 +205,11 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/projects.md
-  - _pages/CV
+  - _pages/cv.md
   - _pages/repositories.md
   - _pages/teaching.md
-  - _pages/submenus.md
+  - _pages/bookshelf.md
+  - _pages/blog.md
 keep_files:
   - CNAME
   - .nojekyll
