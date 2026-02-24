@@ -182,7 +182,7 @@ kramdown:
       line_numbers: false
       start_line: 1
 
-# Includes & excludes
+# Includes & excludes 想要删除须在exclude处加想要删除的东西
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
@@ -208,6 +208,7 @@ exclude:
   - _pages/CV.md
   - _pages/repositories.md
   - _pages/teaching.md
+  - _pages/submenus.md
 keep_files:
   - CNAME
   - .nojekyll
