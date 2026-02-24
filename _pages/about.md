@@ -2,10 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: > 
-<p>Xi'an Jiaotong University<p>
-<p>School of Materials Science and Engineering<p>
-<p>State Key Laboratory for Mechanical Behavior of Materials<p>
+subtitle: Xi'an Jiaotong University, School of Materials Science and Engineering
 
 profile:
   align: right
