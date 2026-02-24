@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> 
+subtitle: > 
 <p>Xi'an Jiaotong University<p>
 <p>School of Materials Science and Engineering<p>
 <p>State Key Laboratory for Mechanical Behavior of Materials<p>
