@@ -38,8 +38,8 @@ ninja.data = [{
             },},{id: "news-恭喜王晓莹博士在materials-today-physics上发表论文an-interpretable-formula-for-lattice-thermal-conductivity",
           title: '恭喜王晓莹博士在Materials Today Physics上发表论文An interpretable formula for lattice thermal conductivity',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-恭喜王晓莹博士获得授权专利-一种半导体材料晶格热导率检测方法及系统",
+          title: '恭喜王晓莹博士获得授权专利：一种半导体材料晶格热导率检测方法及系统',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
