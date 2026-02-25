@@ -2,17 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Xi'an Jiaotong University, School of Materials Science and Engineering
+subtitle:School of Materials Science and Engineering, State Key Laboratory for Mechanical Behavior of Materials
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Zhongying Building, Room A711</p>
-    <p>Innovation Port Gongxing Materials Building, Room 4055</p>
+    <p>Xi'an Jiaotong University</p>
+    <p>Xi'an, Shaanxi, 710049, P.R. China</p>
     <p>Researcher, Master/Doctoral Supervisor</p>
-    <p>No.28, West Xianning Road, Xi'an, Shaanxi, 710049, P.R. China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
