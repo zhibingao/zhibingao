@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "金属材料强度国家重点实验室，所属团队 孙军院士：https://gr.xjtu.edu.cn/en/web/junsun/  丁向东教授：https://gr.xjtu.edu.cn/en/web/dingxd/3  Turab Lookman：https://scholar.google.com/citations?user=9SNxXpUAAAAJ&amp;hl=en&amp;oi=ao",
+          description: "金属材料强度国家重点实验室，所属团队 孙军院士：https://gr.xjtu.edu.cn/en/web/junsun/  丁向东教授：https://gr.xjtu.edu.cn/en/web/dingxd/3  Turab Lookman：https://scholar.google.com/citations?user=9SNxXpUAAAAJ&amp;hl=en&amp;oi=ao 已毕业学生   2024年本科毕设同学：刘博坤，薛亮  博士研究生：黄滇（与能动学院唐桂华教授联陪）  硕士生毕业：          王洋（2025.03），在李苏植教授课题组继续攻读博士      冯敏轩（2024.07），入职怀柔实验室山西研究院（带固定编制）      欧阳泓溢（2022.07），目前在哈尔滨工业大学攻读博士        本科毕业设计：          郭嘉耀（2022.07），目前在上海交通大学攻读博士      侯佳乐（2022.07），西安华为技术有限公司        本科生：          舒国钰（2024.07），物理强基班，已经成功保研到西安交通大学物理学院（直博）      于佳艺（2024.07），计算机专业，已经成功考研到武汉大学计算机学院      刘一鸣（2024.07），物理强基班，新加坡国立大学物理学院博士",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
