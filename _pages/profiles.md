@@ -1,5 +1,5 @@
 ---
-layout: profile
+layout: profiles
 permalink: /people/
 title: people
 description: >
