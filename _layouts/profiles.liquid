@@ -32,5 +32,11 @@ layout: page
         </div>
       {% endfor %}
     {% endif %} 
+
+    {% if page.graduates %}
+      <div class="graduates">
+        {{ page.graduates | markdownify }}
+      </div>
+    {% endif %}
   </article>
 </div>
